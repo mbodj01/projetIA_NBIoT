@@ -3,3 +3,6 @@ scikit-learn
 numpy
 pandas
 joblib
+scikit-learn==1.2.2
+joblib
+flask
